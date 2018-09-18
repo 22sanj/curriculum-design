@@ -1,0 +1,615 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\admin\Desktop\dchp2\programe\445.uvproj
+Project File Date:  09/18/2018
+
+<h2>Output:</h2>
+compiling 3.c...
+3.H(13): error C141: syntax error near 'int', expected ')'
+3.H(14): error C141: syntax error near 'char', expected ')'
+3.H(15): error C141: syntax error near 'char', expected ')'
+3.H(16): error C141: syntax error near 'char', expected ')'
+3.H(32): error C141: syntax error near 'int', expected ')'
+3.H(34): error C202: 'x': undefined identifier
+3.H(37): error C141: syntax error near 'char', expected ')'
+3.H(44): error C202: 'x': undefined identifier
+3.H(51): error C141: syntax error near 'char', expected ')'
+3.H(59): error C202: 'x': undefined identifier
+3.H(64): error C141: syntax error near 'char', expected ')'
+3.H(66): error C202: 'x': undefined identifier
+3.H(67): error C202: 'p': undefined identifier
+3.H(69): error C202: 'p': undefined identifier
+3.H(70): error C202: 'p': undefined identifier
+3.H(71): error C202: 'x': undefined identifier
+3.c - 16 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+3.H(13): error C141: syntax error near 'int', expected ')'
+3.H(14): error C141: syntax error near 'char', expected ')'
+3.H(15): error C141: syntax error near 'char', expected ')'
+3.H(16): error C141: syntax error near 'char', expected ')'
+3.H(32): error C141: syntax error near 'int', expected ')'
+3.H(34): error C202: 'x': undefined identifier
+3.H(37): error C141: syntax error near 'char', expected ')'
+3.H(44): error C202: 'x': undefined identifier
+3.H(51): error C141: syntax error near 'char', expected ')'
+3.H(59): error C202: 'x': undefined identifier
+3.H(64): error C141: syntax error near 'char', expected ')'
+3.H(66): error C202: 'x': undefined identifier
+3.H(67): error C202: 'p': undefined identifier
+3.H(69): error C202: 'p': undefined identifier
+3.H(70): error C202: 'p': undefined identifier
+3.H(71): error C202: 'x': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling 3.c...
+3.H(13): error C141: syntax error near 'int', expected ')'
+3.H(14): error C141: syntax error near 'char', expected ')'
+3.H(15): error C141: syntax error near 'char', expected ')'
+3.H(16): error C141: syntax error near 'char', expected ')'
+3.H(32): error C141: syntax error near 'int', expected ')'
+3.H(34): error C202: 'x': undefined identifier
+3.H(37): error C141: syntax error near 'char', expected ')'
+3.H(44): error C202: 'x': undefined identifier
+3.H(51): error C141: syntax error near 'char', expected ')'
+3.H(59): error C202: 'x': undefined identifier
+3.H(64): error C141: syntax error near 'char', expected ')'
+3.H(66): error C202: 'x': undefined identifier
+3.H(67): error C202: 'p': undefined identifier
+3.H(69): error C202: 'p': undefined identifier
+3.H(70): error C202: 'p': undefined identifier
+3.H(71): error C202: 'x': undefined identifier
+Target not created
+compiling 3.c...
+3.H(13): error C141: syntax error near 'int', expected ')'
+3.H(14): error C141: syntax error near 'char', expected ')'
+3.H(15): error C141: syntax error near 'char', expected ')'
+3.H(16): error C141: syntax error near 'char', expected ')'
+3.H(32): error C141: syntax error near 'int', expected ')'
+3.H(34): error C202: 'x': undefined identifier
+3.H(37): error C141: syntax error near 'char', expected ')'
+3.H(44): error C202: 'x': undefined identifier
+3.H(51): error C141: syntax error near 'char', expected ')'
+3.H(59): error C202: 'x': undefined identifier
+3.H(64): error C141: syntax error near 'char', expected ')'
+3.H(66): error C202: 'x': undefined identifier
+3.H(67): error C202: 'p': undefined identifier
+3.H(69): error C202: 'p': undefined identifier
+3.H(70): error C202: 'p': undefined identifier
+3.H(71): error C202: 'x': undefined identifier
+3.c - 16 Error(s), 0 Warning(s).
+compiling 3.c...
+3.H(13): error C141: syntax error near 'int', expected ')'
+3.H(14): error C141: syntax error near 'char', expected ')'
+3.H(15): error C141: syntax error near 'char', expected ')'
+3.H(16): error C141: syntax error near 'char', expected ')'
+3.H(32): error C141: syntax error near 'int', expected ')'
+3.H(34): error C202: 'x': undefined identifier
+3.H(37): error C141: syntax error near 'char', expected ')'
+3.H(44): error C202: 'x': undefined identifier
+3.H(51): error C141: syntax error near 'char', expected ')'
+3.H(59): error C202: 'x': undefined identifier
+3.H(64): error C141: syntax error near 'char', expected ')'
+3.H(66): error C202: 'x': undefined identifier
+3.H(67): error C202: 'p': undefined identifier
+3.H(69): error C202: 'p': undefined identifier
+3.H(70): error C202: 'p': undefined identifier
+3.H(71): error C202: 'x': undefined identifier
+3.c - 16 Error(s), 0 Warning(s).
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'int', expected ')'
+LCD.H(14): error C141: syntax error near 'char', expected ')'
+LCD.H(15): error C141: syntax error near 'char', expected ')'
+LCD.H(16): error C141: syntax error near 'char', expected ')'
+3.c - 4 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'int', expected ')'
+LCD.H(14): error C141: syntax error near 'char', expected ')'
+LCD.H(15): error C141: syntax error near 'char', expected ')'
+LCD.H(16): error C141: syntax error near 'char', expected ')'
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'int', expected ')'
+LCD.H(14): error C141: syntax error near 'char', expected ')'
+LCD.H(15): error C141: syntax error near 'char', expected ')'
+LCD.H(16): error C141: syntax error near 'char', expected ')'
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'int', expected ')'
+LCD.H(14): error C141: syntax error near 'char', expected ')'
+LCD.H(15): error C141: syntax error near 'char', expected ')'
+LCD.H(16): error C141: syntax error near 'char', expected ')'
+3.c - 4 Error(s), 0 Warning(s).
+compiling 3.c...
+LCD.H(13): error C141: syntax error near ';'
+LCD.H(14): error C141: syntax error near ';'
+LCD.H(15): error C141: syntax error near ';'
+LCD.H(16): error C141: syntax error near ';'
+3.c - 4 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+LCD.H(13): error C141: syntax error near ';'
+LCD.H(14): error C141: syntax error near ';'
+LCD.H(15): error C141: syntax error near ';'
+LCD.H(16): error C141: syntax error near ';'
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+compiling 3.c...
+LCD.H(13): error C141: syntax error near ';'
+LCD.H(14): error C141: syntax error near ';'
+LCD.H(15): error C141: syntax error near ';'
+LCD.H(16): error C141: syntax error near ';'
+3.c - 4 Error(s), 0 Warning(s).
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'x', expected ')'
+LCD.H(14): error C141: syntax error near 'x', expected ')'
+LCD.H(15): error C141: syntax error near 'x', expected ')'
+LCD.H(16): error C141: syntax error near 'x', expected ')'
+3.c - 4 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'x', expected ')'
+LCD.H(14): error C141: syntax error near 'x', expected ')'
+LCD.H(15): error C141: syntax error near 'x', expected ')'
+LCD.H(16): error C141: syntax error near 'x', expected ')'
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+compiling 3.c...
+LCD.H(13): error C141: syntax error near 'x', expected ')'
+LCD.H(14): error C141: syntax error near 'x', expected ')'
+LCD.H(15): error C141: syntax error near 'x', expected ')'
+LCD.H(16): error C141: syntax error near 'x', expected ')'
+3.c - 4 Error(s), 0 Warning(s).
+compiling 3.c...
+LCD.H(13): error C141: syntax error near ';'
+LCD.H(14): error C141: syntax error near ';'
+LCD.H(15): error C141: syntax error near ';'
+LCD.H(16): error C141: syntax error near ';'
+3.c - 4 Error(s), 0 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+lcd.c(1): warning C318: can't open file 'lcd,h'
+LCD.C(5): warning C206: 'Write_Instruction': missing function-prototype
+LCD.C(5): error C267: 'Write_Instruction': requires ANSI-style prototype
+Target not created
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+Program Size: data=10.0 xdata=0 code=186
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+Program Size: data=10.0 xdata=0 code=186
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+Program Size: data=10.0 xdata=0 code=186
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+Program Size: data=10.0 xdata=0 code=186
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.C(10): error C141: syntax error near ']'
+3.c - 1 Error(s), 0 Warning(s).
+compiling 3.c...
+3.C(14): error C141: syntax error near '}'
+3.c - 1 Error(s), 0 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=342
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=342
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling lcd.c...
+lcd.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=347
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=349
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=349
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=344
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=344
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+compiling 3.c...
+3.C(10): warning C206: 'Write_Dat3a': missing function-prototype
+3.C(10): error C267: 'Write_Dat3a': requires ANSI-style prototype
+3.c - 1 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=338
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+compiling 3.c...
+3.C(10): warning C214: 'Argument': conversion: pointer to non-pointer
+3.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=340
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+3.C(10): warning C214: 'Argument': conversion: pointer to non-pointer
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=340
+creating hex file from "445"...
+"445" - 0 Error(s), 3 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=326
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=326
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+compiling 3.c...
+3.C(10): warning C214: 'Argument': conversion: pointer to non-pointer
+3.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=333
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+3.C(10): warning C214: 'Argument': conversion: pointer to non-pointer
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=333
+creating hex file from "445"...
+"445" - 0 Error(s), 3 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=331
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_STRING?LCD
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=331
+creating hex file from "445"...
+"445" - 0 Error(s), 2 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=337
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=337
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=341
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=341
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=337
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=337
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.C(12): error C141: syntax error near ']'
+3.c - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+3.C(12): error C141: syntax error near ']'
+Target not created
+Build target 'Target 1'
+compiling 3.c...
+3.C(12): error C141: syntax error near ']'
+compiling lcd.c...
+Target not created
+compiling 3.c...
+3.C(12): error C141: syntax error near ']'
+3.c - 1 Error(s), 0 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=363
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=363
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+compiling 3.c...
+3.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=361
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling 3.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLS?LCD
+Program Size: data=27.0 xdata=0 code=361
+creating hex file from "445"...
+"445" - 0 Error(s), 1 Warning(s).
